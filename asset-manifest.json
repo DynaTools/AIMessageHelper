@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIMessageHelper/static/css/main.eaa8353d.css",
+    "main.js": "/AIMessageHelper/static/js/main.fd1f4714.js",
+    "index.html": "/AIMessageHelper/index.html",
+    "main.eaa8353d.css.map": "/AIMessageHelper/static/css/main.eaa8353d.css.map",
+    "main.fd1f4714.js.map": "/AIMessageHelper/static/js/main.fd1f4714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa8353d.css",
+    "static/js/main.fd1f4714.js"
+  ]
+}
