@@ -2,7 +2,7 @@
   "name": "ai-message-quick-language-helper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dynatools.github.io/AIMessagemHelper",
+  "homepage": "https://dynatools.github.io/AIMessageHelper",
   "dependencies": {
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
