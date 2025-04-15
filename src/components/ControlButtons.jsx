@@ -55,6 +55,7 @@ const ControlButtons = ({
       await new Promise(resolve => setTimeout(resolve, 2000));
 
       // Construct the prompt that would be sent to the AI API
+      // eslint-disable-next-line no-unused-vars
       const prompt = `You are a professional linguistic assistant.
 
 Your task:
